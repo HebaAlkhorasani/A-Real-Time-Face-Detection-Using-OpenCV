@@ -13,6 +13,6 @@ A real time face detection code using OpenCV library in Python. The real time fa
 ## The Picture Face Detection Used For Testing
   1. Run the code (Real_Time_Face_Detection.py).
   2. The following image should be produced:
-  ![](output.png)
+  ![](output.PNG)
 
 

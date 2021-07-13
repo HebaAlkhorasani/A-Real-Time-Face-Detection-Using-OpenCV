@@ -1,6 +1,6 @@
 import cv2
 
-faceCascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml') #To load the 
+faceCascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml') #To load the classfier
 
 image =cv2.imread("faces2.jpg") #open the image
 
